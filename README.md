@@ -1,14 +1,32 @@
 <!-- ============================================= -->
-<!--  HEADER                                       -->
+<!--  ANIMATED BANNER                              -->
 <!-- ============================================= -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alejandro%20Gomez&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%C2%B7%20Information%20Systems%20%C2%B7%20Florida%20Tech&descSize=18&descAlignY=55" alt="header">
+
+<!-- ============================================= -->
+<!--  INTRO + CODING GIF                           -->
+<!-- ============================================= -->
+
+<!--
+  ⬇️ THE GIF: drop your own file at  assets/coding.gif  in this repo.
+     giphy.com > search "coding" > download > Add file > Upload files > assets/coding.gif
+-->
+<img align="right" width="370" src="assets/coding.gif" alt="coding gif">
+
+### Hi 👋, I'm Alejandro
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2F81F7&width=440&lines=Cybersecurity+Student+%40+Florida+Tech;Information+Systems+%7C+CS+Minor;Auth+Systems+%26+Secure+Login+Interfaces;Always+breaking+and+rebuilding+things)](https://git.io/typing-svg)
+
+I'm a second-year student building toward a career in **cybersecurity**, with a focus on authentication systems, secure login interfaces, and web security fundamentals. I like projects where the security side is the actual point, not an afterthought.
+
+- 🔐 **Focus:** Cybersecurity — auth systems, secure interfaces, web security
+- 🎓 **Next step:** M.S. in Cybersecurity
+- 🌎 **Languages:** English · Español
+
+<br clear="right"/>
+
 <div align="center">
-
-# 👋 Hi, I'm Alejandro Gomez
-
-**Information Systems Major · Computer Science Minor**
-
-*Florida Institute of Technology*
 
 <a href="mailto:aleglacayo03@gmail.com"><img src="https://img.shields.io/badge/Email-aleglacayo03@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <!-- Add your LinkedIn URL below, then delete this comment -->
@@ -18,23 +36,46 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/Papabersomnifurum/Papabersomnifurum/output/github-snake.svg" width="100%" alt="snake animation">
+<!-- ⚠️ The snake above is blank until you add the workflow file (snake.yml) and run it once. -->
+
 ---
 
-## 🎯 About Me
+<!-- ============================================= -->
+<!--  MORE ABOUT ME (CLICK TO EXPAND)              -->
+<!-- ============================================= -->
 
-I'm a second-year student building toward a career in **cybersecurity**, with a focus on authentication systems, secure login interfaces, and web security fundamentals. I like projects where the security side is the actual point, not an afterthought.
+<details>
+<summary><b>🧠 More about me — click to expand</b></summary>
 
-- 🔐 **Focus:** Cybersecurity — auth systems, secure interfaces, web security
-- 🎓 **Next step:** M.S. in Cybersecurity
-- 🛠️ **Currently building:** security tooling and web projects (see below)
-- 🤝 **Open to:** collaboration on security-focused web projects and CTF-style work
-- 🌎 **Languages:** English · Español
+<br/>
+
+| | |
+| :--- | :--- |
+| 🏫 **School** | Florida Institute of Technology |
+| 📚 **Degree** | B.S. Information Systems, CS minor |
+| 🎯 **Concentration** | Cybersecurity |
+| 💼 **Also doing** | Data analysis, web design, peer mentoring |
+| 🚒 **Background** | Volunteer firefighter |
+| ⚡ **Fun fact** | I'd rather spend three hours automating a ten-minute task |
+
+**What I'm interested in right now**
+
+- Authentication flows and where they actually break
+- URL / phishing analysis and threat detection
+- Secure front-end patterns — input handling, session logic, CSP
+- Turning messy data into something readable
+
+</details>
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💻 Programming Languages
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+
+<br/>
 
 | Language | Proficiency | Level |
 | :--- | :--- | :--- |
@@ -47,7 +88,12 @@ I'm a second-year student building toward a career in **cybersecurity**, with a 
 | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> | `████████████████████` **100%** | Intermediate |
 | <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"> | `████████████████████` **100%** | Professional |
 
-### 📊 Data & Analytics
+</details>
+
+<details>
+<summary><b>📊 Data & Analytics</b></summary>
+
+<br/>
 
 | Tool | Proficiency | Level |
 | :--- | :--- | :--- |
@@ -56,7 +102,12 @@ I'm a second-year student building toward a career in **cybersecurity**, with a 
 | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> | `██████████████████░░` **90%** | Professional |
 | <img src="https://img.shields.io/badge/PSeInt-9B59B6?style=flat-square&logo=codeigniter&logoColor=white" alt="PSeInt"> | `███████████████████░` **95%** | Professional |
 
-### 🛠️ Tools
+</details>
+
+<details>
+<summary><b>🛠️ Tools & Environment</b></summary>
+
+<br/>
 
 | Tool | Proficiency | Level |
 | :--- | :--- | :--- |
@@ -65,49 +116,130 @@ I'm a second-year student building toward a career in **cybersecurity**, with a 
 | <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"> | `█████████████████░░░` **85%** | Experienced |
 | <img src="https://img.shields.io/badge/Zotero-CC2936?style=flat-square&logo=zotero&logoColor=white" alt="Zotero"> | `███████████████████░` **95%** | Professional |
 
+</details>
+
 ---
+
+<!-- ============================================= -->
+<!--  PROGRESSION / ROADMAP                        -->
+<!-- ============================================= -->
+
+## 🚀 Progression Tracker
+
+> Where I actually am, updated as I go.
+
+| Goal | Progress | Status |
+| :--- | :--- | :--- |
+| 🎓 **B.S. Information Systems** | `██████████░░░░░░░░░░` **50%** | Year 2 of 4 |
+| 🛡️ **CompTIA Security+** | `████████░░░░░░░░░░░░` **40%** | Studying |
+| 🔐 **Cybersecurity concentration** | `████████████░░░░░░░░` **60%** | In progress |
+| 💼 **Portfolio projects** | `██████████████░░░░░░` **70%** | Building |
+| 🎯 **M.S. Cybersecurity application** | `████░░░░░░░░░░░░░░░░` **20%** | Planning |
+
+<details>
+<summary><b>📖 What I'm learning right now</b></summary>
+
+<br/>
+
+| Topic | Progress |
+| :--- | :--- |
+| Network security fundamentals | `███████████████░░░░░` **75%** |
+| Authentication protocols (OAuth, JWT, SAML) | `████████████░░░░░░░░` **60%** |
+| Secure coding practices | `██████████████░░░░░░` **70%** |
+| Threat detection & URL analysis | `████████████████░░░░` **80%** |
+| Linux / shell for security work | `██████████░░░░░░░░░░` **50%** |
+
+</details>
+
+---
+
+<!-- ============================================= -->
+<!--  PROJECTS                                     -->
+<!-- ============================================= -->
 
 ## 📌 Featured Projects
 
 <!-- Replace the # links with real repo URLs. Delete rows you don't have yet. -->
 
+<details open>
+<summary><b>🔐 Security</b></summary>
+
+<br/>
+
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
 | **[Link Security Analyzer](#)** | Checks URLs for phishing and malicious indicators and returns a risk breakdown. | `Python` `HTML/CSS/JS` |
 | **[Project Name](#)** | One clear sentence on what it does and who it's for. | `Tech` `Tech` |
+
+</details>
+
+<details>
+<summary><b>🌐 Web & Data</b></summary>
+
+<br/>
+
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
 | **[Project Name](#)** | One clear sentence on what it does and who it's for. | `Tech` `Tech` |
+| **[Project Name](#)** | One clear sentence on what it does and who it's for. | `Tech` `Tech` |
+
+</details>
 
 > 📂 More in my [repositories](https://github.com/Papabersomnifurum?tab=repositories).
 
 ---
+
+<!-- ============================================= -->
+<!--  STATS & GRAPHS                               -->
+<!-- ============================================= -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Papabersomnifurum&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papabersomnifurum&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papabersomnifurum&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Papabersomnifurum&theme=tokyonight&hide_border=true" alt="GitHub streak">
 
 </div>
 
+### 📈 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Papabersomnifurum&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="activity graph">
+
+<details>
+<summary><b>🏆 Trophies</b></summary>
+
+<br/>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Papabersomnifurum&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies">
+</div>
+
+</details>
+
 ---
 
-## 📜 Certifications & Learning
-
-- 🎯 **Working toward:** CompTIA Security+
-- 📖 **Currently learning:** network security, authentication protocols, secure coding practices
-
----
+<!-- ============================================= -->
+<!--  FOOTER                                       -->
+<!-- ============================================= -->
 
 <div align="center">
 
-**Want to work on something together?** → [aleglacayo03@gmail.com](mailto:aleglacayo03@gmail.com)
+### 💬 Want to work on something together?
+
+<a href="mailto:aleglacayo03@gmail.com"><img src="https://img.shields.io/badge/Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+
+<br/>
+
+*Open to collaboration on security-focused web projects and CTF-style work.*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer">
 
 <!--
 Papabersomnifurum/Papabersomnifurum is a ✨ special ✨ repository because its README.md (this file)
