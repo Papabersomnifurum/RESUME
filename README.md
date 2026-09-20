@@ -1,43 +1,53 @@
 <!-- ============================================= -->
-<!--  ANIMATED BANNER                              -->
+<!--  MATRIX BANNER                                -->
 <!-- ============================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alejandro%20Gomez&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%C2%B7%20Information%20Systems%20%C2%B7%20Florida%20Tech&descSize=18&descAlignY=55" alt="header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0208,100:008F11&height=200&section=header&text=Alejandro%20Gomez&fontSize=55&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Information%20Systems%20%C2%B7%20Minor%20CSE%20%C2%B7%20Florida%20Tech&descSize=18&descAlignY=55" alt="header">
 
 <!-- ============================================= -->
-<!--  INTRO + CODING GIF                           -->
+<!--  INTRO + MATRIX GIF                           -->
 <!-- ============================================= -->
 
 <!--
-  ⬇️ THE GIF: drop your own file at  assets/coding.gif  in this repo.
-     giphy.com > search "coding" > download > Add file > Upload files > assets/coding.gif
+  ⬇️ THE GIF: drop your own file at  assets/matrix.gif  in this repo.
+     Search giphy.com for "matrix rain", "matrix code", or "terminal hacking"
+     Download > Add file > Upload files > assets/matrix.gif
 -->
-<img align="right" width="370" src="assets/coding.gif" alt="coding gif">
+<img align="right" width="370" src="assets/matrix.gif" alt="matrix rain">
 
-### Hi 👋, I'm Alejandro
+### `> whoami`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2F81F7&width=440&lines=Cybersecurity+Student+%40+Florida+Tech;Information+Systems+%7C+CS+Minor;Auth+Systems+%26+Secure+Login+Interfaces;Always+breaking+and+rebuilding+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&width=440&lines=Information+Systems+%40+Florida+Tech;Computer+Science+Minor;Learning+security+from+the+ground+up;Breaking+things+to+understand+them)](https://git.io/typing-svg)
 
-I'm a second-year student building toward a career in **cybersecurity**, with a focus on authentication systems, secure login interfaces, and web security fundamentals. I like projects where the security side is the actual point, not an afterthought.
+I'm a second-year student at Florida Tech. Most of what I build sits somewhere between systems, data, and the web — authentication flows, secure login interfaces, and the fundamentals that hold a site together.
 
-- 🔐 **Focus:** Cybersecurity — auth systems, secure interfaces, web security
-- 🎓 **Next step:** M.S. in Cybersecurity
-- 🌎 **Languages:** English · Español
+```js
+const alejandro = {
+  school:    "Florida Institute of Technology",
+  degree:    "B.S. Information Systems",
+  minor:     "Computer Science",
+  year:      2,
+  languages: ["C++", "Python", "Java", "Lua", "JavaScript", "SQL"],
+  speaks:    ["English", "Español"],
+  learning:  ["auth protocols", "network fundamentals", "secure coding"],
+  goal:      "M.S. — still deciding the exact track"
+};
+```
 
 <br clear="right"/>
 
 <div align="center">
 
-<a href="mailto:aleglacayo03@gmail.com"><img src="https://img.shields.io/badge/Email-aleglacayo03@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:aleglacayo03@gmail.com"><img src="https://img.shields.io/badge/Email-aleglacayo03@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=00FF41&labelColor=0D1117" alt="Email"></a>
 <!-- Add your LinkedIn URL below, then delete this comment -->
-<a href="https://www.linkedin.com/in/YOUR-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://img.shields.io/badge/Location-Melbourne,%20FL-4C9A2A?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
-<img src="https://komarev.com/ghpvc/?username=Papabersomnifurum&style=flat-square&color=blue" alt="Profile views">
+<a href="https://www.linkedin.com/in/YOUR-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=00FF41&labelColor=0D1117" alt="LinkedIn"></a>
+<img src="https://img.shields.io/badge/Location-Melbourne,%20FL-0D1117?style=flat-square&logo=googlemaps&logoColor=00FF41&labelColor=0D1117" alt="Location">
+<img src="https://komarev.com/ghpvc/?username=Papabersomnifurum&style=flat-square&color=00FF41" alt="Profile views">
 
 </div>
 
 <img src="https://raw.githubusercontent.com/Papabersomnifurum/Papabersomnifurum/output/github-snake.svg" width="100%" alt="snake animation">
-<!-- ⚠️ The snake above is blank until you add the workflow file (snake.yml) and run it once. -->
+<!-- ⚠️ The snake above stays blank until you add snake.yml and run it once. -->
 
 ---
 
@@ -46,15 +56,15 @@ I'm a second-year student building toward a career in **cybersecurity**, with a 
 <!-- ============================================= -->
 
 <details>
-<summary><b>🧠 More about me — click to expand</b></summary>
+<summary><b>🧠 <code>cat about_me.txt</code> — click to expand</b></summary>
 
 <br/>
 
 | | |
 | :--- | :--- |
 | 🏫 **School** | Florida Institute of Technology |
-| 📚 **Degree** | B.S. Information Systems, CS minor |
-| 🎯 **Concentration** | Cybersecurity |
+| 📚 **Degree** | B.S. Information Systems |
+| 🧮 **Minor** | Computer Science |
 | 💼 **Also doing** | Data analysis, web design, peer mentoring |
 | 🚒 **Background** | Volunteer firefighter |
 | ⚡ **Fun fact** | I'd rather spend three hours automating a ten-minute task |
@@ -70,7 +80,7 @@ I'm a second-year student building toward a career in **cybersecurity**, with a 
 
 ---
 
-## 🧰 Tech Stack
+## `> ls ./skills`
 
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
@@ -79,14 +89,14 @@ I'm a second-year student building toward a career in **cybersecurity**, with a 
 
 | Language | Proficiency | Level |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> | `████████████████████` **100%** | Skillful |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> | `███████████████░░░░░` **75%** | Intermediate |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> | `████████████████░░░░` **80%** | Experienced |
-| <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"> | `████████████████████` **100%** | Skillful |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> | `████████████████████` **100%** | Skillful |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> | `████████████████░░░░` **80%** | Intermediate |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> | `████████████████████` **100%** | Intermediate |
-| <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"> | `████████████████████` **100%** | Professional |
+| <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00FF41" alt="C++"> | `████████████████████` **100%** | Skillful |
+| <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41" alt="Python"> | `███████████████░░░░░` **75%** | Intermediate |
+| <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00FF41" alt="Java"> | `████████████████░░░░` **80%** | Experienced |
+| <img src="https://img.shields.io/badge/Lua-0D1117?style=flat-square&logo=lua&logoColor=00FF41" alt="Lua"> | `████████████████████` **100%** | Skillful |
+| <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00FF41" alt="HTML5"> | `████████████████████` **100%** | Skillful |
+| <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00FF41" alt="CSS3"> | `████████████████░░░░` **80%** | Intermediate |
+| <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF41" alt="JavaScript"> | `████████████████████` **100%** | Intermediate |
+| <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=00FF41" alt="SQL"> | `████████████████████` **100%** | Professional |
 
 </details>
 
@@ -97,10 +107,10 @@ I'm a second-year student building toward a career in **cybersecurity**, with a 
 
 | Tool | Proficiency | Level |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/KNIME-FBB117?style=flat-square&logo=knime&logoColor=white" alt="KNIME"> | `████████████████████` **100%** | Really Proficient |
-| <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"> | `████████████████████` **100%** | Professional |
-| <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> | `██████████████████░░` **90%** | Professional |
-| <img src="https://img.shields.io/badge/PSeInt-9B59B6?style=flat-square&logo=codeigniter&logoColor=white" alt="PSeInt"> | `███████████████████░` **95%** | Professional |
+| <img src="https://img.shields.io/badge/KNIME-0D1117?style=flat-square&logo=knime&logoColor=00FF41" alt="KNIME"> | `████████████████████` **100%** | Really Proficient |
+| <img src="https://img.shields.io/badge/Excel-0D1117?style=flat-square&logo=microsoftexcel&logoColor=00FF41" alt="Excel"> | `████████████████████` **100%** | Professional |
+| <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00FF41" alt="Pandas"> | `██████████████████░░` **90%** | Professional |
+| <img src="https://img.shields.io/badge/PSeInt-0D1117?style=flat-square&logo=codeigniter&logoColor=00FF41" alt="PSeInt"> | `███████████████████░` **95%** | Professional |
 
 </details>
 
@@ -111,10 +121,10 @@ I'm a second-year student building toward a career in **cybersecurity**, with a 
 
 | Tool | Proficiency | Level |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> | `██████████████░░░░░░` **70%** | Intermediate |
-| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> | `████████████████████` **100%** | Professional |
-| <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"> | `█████████████████░░░` **85%** | Experienced |
-| <img src="https://img.shields.io/badge/Zotero-CC2936?style=flat-square&logo=zotero&logoColor=white" alt="Zotero"> | `███████████████████░` **95%** | Professional |
+| <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00FF41" alt="Git"> | `██████████████░░░░░░` **70%** | Intermediate |
+| <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00FF41" alt="GitHub"> | `████████████████████` **100%** | Professional |
+| <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00FF41" alt="VS Code"> | `█████████████████░░░` **85%** | Experienced |
+| <img src="https://img.shields.io/badge/Zotero-0D1117?style=flat-square&logo=zotero&logoColor=00FF41" alt="Zotero"> | `███████████████████░` **95%** | Professional |
 
 </details>
 
@@ -124,20 +134,18 @@ I'm a second-year student building toward a career in **cybersecurity**, with a 
 <!--  PROGRESSION / ROADMAP                        -->
 <!-- ============================================= -->
 
-## 🚀 Progression Tracker
-
-> Where I actually am, updated as I go.
+## `> progress --all`
 
 | Goal | Progress | Status |
 | :--- | :--- | :--- |
 | 🎓 **B.S. Information Systems** | `██████████░░░░░░░░░░` **50%** | Year 2 of 4 |
+| 🧮 **Computer Science minor** | `████████████░░░░░░░░` **60%** | In progress |
 | 🛡️ **CompTIA Security+** | `████████░░░░░░░░░░░░` **40%** | Studying |
-| 🔐 **Cybersecurity concentration** | `████████████░░░░░░░░` **60%** | In progress |
 | 💼 **Portfolio projects** | `██████████████░░░░░░` **70%** | Building |
-| 🎯 **M.S. Cybersecurity application** | `████░░░░░░░░░░░░░░░░` **20%** | Planning |
+| 🎯 **Grad school application** | `████░░░░░░░░░░░░░░░░` **20%** | Planning |
 
 <details>
-<summary><b>📖 What I'm learning right now</b></summary>
+<summary><b>📖 <code>tail -f learning.log</code></b></summary>
 
 <br/>
 
@@ -147,7 +155,7 @@ I'm a second-year student building toward a career in **cybersecurity**, with a 
 | Authentication protocols (OAuth, JWT, SAML) | `████████████░░░░░░░░` **60%** |
 | Secure coding practices | `██████████████░░░░░░` **70%** |
 | Threat detection & URL analysis | `████████████████░░░░` **80%** |
-| Linux / shell for security work | `██████████░░░░░░░░░░` **50%** |
+| Linux / shell scripting | `██████████░░░░░░░░░░` **50%** |
 
 </details>
 
@@ -157,7 +165,7 @@ I'm a second-year student building toward a career in **cybersecurity**, with a 
 <!--  PROJECTS                                     -->
 <!-- ============================================= -->
 
-## 📌 Featured Projects
+## `> cd ./projects`
 
 <!-- Replace the # links with real repo URLs. Delete rows you don't have yet. -->
 
@@ -193,22 +201,22 @@ I'm a second-year student building toward a career in **cybersecurity**, with a 
 <!--  STATS & GRAPHS                               -->
 <!-- ============================================= -->
 
-## 📊 GitHub Stats
+## `> git stats`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Papabersomnifurum&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papabersomnifurum&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Papabersomnifurum&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=00FF41" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papabersomnifurum&layout=donut&langs_count=8&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00FF41" alt="Top languages">
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Papabersomnifurum&theme=tokyonight&hide_border=true" alt="GitHub streak">
+<img src="https://streak-stats.demolab.com?user=Papabersomnifurum&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=C9D1D9&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak">
 
 </div>
 
 ### 📈 Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Papabersomnifurum&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="activity graph">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Papabersomnifurum&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=008F11&hide_border=false&custom_title=Contribution%20Graph" alt="activity graph">
 
 <details>
 <summary><b>🏆 Trophies</b></summary>
@@ -216,7 +224,7 @@ I'm a second-year student building toward a career in **cybersecurity**, with a 
 <br/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Papabersomnifurum&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=Papabersomnifurum&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies">
 </div>
 
 </details>
@@ -229,17 +237,17 @@ I'm a second-year student building toward a career in **cybersecurity**, with a 
 
 <div align="center">
 
-### 💬 Want to work on something together?
+### `> contact --me`
 
-<a href="mailto:aleglacayo03@gmail.com"><img src="https://img.shields.io/badge/Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+<a href="mailto:aleglacayo03@gmail.com"><img src="https://img.shields.io/badge/Send%20me%20an%20email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117" alt="Email me"></a>
 
 <br/>
 
-*Open to collaboration on security-focused web projects and CTF-style work.*
+*Open to collaboration on web projects, data work, and anything security-adjacent.*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:008F11,100:0D0208&height=120&section=footer" alt="footer">
 
 <!--
 Papabersomnifurum/Papabersomnifurum is a ✨ special ✨ repository because its README.md (this file)
