@@ -34,30 +34,36 @@ I'm a second-year student building toward a career in **cybersecurity**, with a 
 
 ## 🧰 Tech Stack
 
-**Languages**
+### 💻 Programming Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+| Language | Proficiency | Level |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> | `████████████████████` **100%** | Skillful |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> | `███████████████░░░░░` **75%** | Intermediate |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> | `████████████████░░░░` **80%** | Experienced |
+| <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"> | `████████████████████` **100%** | Skillful |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> | `████████████████████` **100%** | Skillful |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> | `████████████████░░░░` **80%** | Intermediate |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> | `████████████████████` **100%** | Intermediate |
+| <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"> | `████████████████████` **100%** | Professional |
 
-**Data & Analytics**
+### 📊 Data & Analytics
 
-![KNIME](https://img.shields.io/badge/KNIME-FBB117?style=flat-square&logo=knime&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![PSeInt](https://img.shields.io/badge/PSeInt-9B59B6?style=flat-square&logo=codeigniter&logoColor=white)
+| Tool | Proficiency | Level |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/KNIME-FBB117?style=flat-square&logo=knime&logoColor=white" alt="KNIME"> | `████████████████████` **100%** | Really Proficient |
+| <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"> | `████████████████████` **100%** | Professional |
+| <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> | `██████████████████░░` **90%** | Professional |
+| <img src="https://img.shields.io/badge/PSeInt-9B59B6?style=flat-square&logo=codeigniter&logoColor=white" alt="PSeInt"> | `███████████████████░` **95%** | Professional |
 
-**Tools**
+### 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat-square&logo=zotero&logoColor=white)
+| Tool | Proficiency | Level |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> | `██████████████░░░░░░` **70%** | Intermediate |
+| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> | `████████████████████` **100%** | Professional |
+| <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"> | `█████████████████░░░` **85%** | Experienced |
+| <img src="https://img.shields.io/badge/Zotero-CC2936?style=flat-square&logo=zotero&logoColor=white" alt="Zotero"> | `███████████████████░` **95%** | Professional |
 
 ---
 
